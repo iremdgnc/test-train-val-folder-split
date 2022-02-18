@@ -4,16 +4,16 @@
 ## Setup
 Clone the repo
 
- *`git clone https://github.com/iremdgnc/test-train-val-folder-split.git` 
+ * `git clone https://github.com/iremdgnc/test-train-val-folder-split.git` 
 
 Go to the project directory
 
- *`cd test-train-val-folder-split`
+ * `cd test-train-val-folder-split`
  
 Create virtual environment
 
- *`python3 -m venv env`
+ * `python3 -m venv env`
  
 Activate virtual environment
 
- *`. env/bin/activate`
+ * `. env/bin/activate`
